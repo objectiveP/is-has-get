@@ -59,7 +59,7 @@ Just integerate in your html document:
 or use command-line install via bower:
 
 ```
-$ bower install ishasget
+$ bower install is-has-get
 
 ``` 
 
