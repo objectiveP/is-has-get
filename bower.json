@@ -1,0 +1,20 @@
+{
+  "name": "is-has-get",
+  "version": "0.0.1",
+  "homepage": "https://github.com/objectiveP/is-has-get",
+  "authors": [
+    "Christopher Walzel",
+    "Florian Walzel"
+
+  ],
+  "description": "A lightweight ontological library for javascript",
+  "main": "dev/ithasget.js",
+  "keywords": [
+    "javascript",
+    "type-checking",
+    "basic",
+    "utility belt"
+  ],
+  "license": "MIT",
+  "ignore": []
+}
